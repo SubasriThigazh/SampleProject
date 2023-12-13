@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.adactin.test.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.62 s -- in com.adactin.test.LoginPageTest
