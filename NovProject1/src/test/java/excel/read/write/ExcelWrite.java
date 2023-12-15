@@ -19,10 +19,10 @@ public static void main(String[] args) throws Exception {
 	XSSFSheet sheet = wbook.createSheet("Students");
 	XSSFRow row = sheet.createRow(2);
 	XSSFCell cell = row.createCell(0);
-	cell.setCellValue("Vinodh");
+	cell.setCellValue("Subasri");
 	XSSFRow row1 = sheet.createRow(3);
 	XSSFCell cell1 = row1.createCell(1);
-	cell1.setCellValue("Diya");
+	cell1.setCellValue("Dhivya");
 	
 	FileOutputStream fos = new FileOutputStream(f); //write mode
 	wbook.write(fos);
